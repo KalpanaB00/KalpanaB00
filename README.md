@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kalpana Boini  
 
 ### 👩‍💻 About Me
-🔭 I’m currently working on a dynamic dashboard project with React, SQL, and live cloud deployment.  
+🔭 I’m currently working on a dynamic dashboard project with React, Node.js, Java, SQL, Docker, Kubernetes,Django,Power BI, Tableau, D3.js, Python,TensorFlow, PyTorch, NLP and live cloud deployment.  
 🤝 I’m looking to collaborate on backend engineering, open-source cloud tools, and AI-driven applications.  
 🧠 I’m looking for help with advanced Kubernetes orchestration and scalable microservices.  
 🌱 I’m currently learning Java EE design patterns, AWS ECS/EKS, and applied machine learning.  
