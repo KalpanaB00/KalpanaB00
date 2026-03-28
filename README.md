@@ -9,23 +9,45 @@
 💬 Ask me about Java backend development, GitHub repo structuring, cloud deployment workflows, and data visualization.  
 ⚡ Fun fact: Debugging feels like detective work — I enjoy solving technical mysteries!  
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://yourportfolio.com)
-
 ---
-
 ## 🛠 Tech Stack
+
+**Full Stack & Web Development**  
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
-![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
-![SQL](https://img.shields.io/badge/SQL-orange?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-lightblue?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?style=flat&logo=springboot)
+![REST APIs](https://img.shields.io/badge/REST-apis-lightgrey?style=flat&logo=fastapi)
+
+**AI & Machine Learning**  
 ![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-blue?style=flat&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/NLP-purple?style=flat&logo=google)
+![LLMs](https://img.shields.io/badge/LLMs-Transformers-darkblue?style=flat&logo=huggingface)
+
+**Data Analysis & Visualization**  
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat&logo=mysql)
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat&logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat&logo=microsoft-excel)
+![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-lightblue?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-darkgreen?style=flat&logo=plotly)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-orange?style=flat&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-lightblue?style=flat&logo=kubernetes)
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+
 
 ---
 
