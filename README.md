@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kalpana Boini  
-**Full Stack Developer | AI Engineer | Data Analyst | Web Development Enthusiast**
+**Cloud Engineer| AI Engineer | Testing and automation |Software developer **
 
 ### 👩‍💻 About Me
 🔭 I’m currently working on a dynamic dashboard project with React, Node.js, Java, SQL, Docker, Kubernetes,Django,Power BI, Tableau, D3.js, Python,TensorFlow, PyTorch, NLP and live cloud deployment.  
